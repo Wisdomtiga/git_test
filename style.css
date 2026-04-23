@@ -1,0 +1,19 @@
+* {
+    background-color: green;
+}
+
+
+
+p {
+    color: red;
+    font-size: large;
+}
+
+p.nolan {
+    background-color: red;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
